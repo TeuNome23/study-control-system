@@ -1,6 +1,10 @@
 # Study Control System
 
-Sistema de controle de estudos desenvolvido para aprendizado de PHP, JavaScript e SQL.
+Sistema de controle de estudos desenvolvido para aprendizado de:
+
+- PHP
+- JavaScript
+- SQL
 
 ## Funcionalidades
 
